@@ -12,7 +12,7 @@ Realman Livestock is a full-featured business management platform designed for s
 ### Product Category
 ![Product Category Screenshot](assets/project/Product-category.jpg)
 ### Order Management
-![Order Management Screenshot](assets/project/Order-management.jpg)
+![Order Management Screenshot](assets/project/Orders-management.jpg)
 
 
 **Tech Stack:**
