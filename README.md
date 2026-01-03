@@ -1,15 +1,17 @@
 # 🐐 Realman Livestock Management System
 
-A comprehensive Laravel 10 application for managing livestock business operations including animal tracking, processing services, freezer inventory, order management, and customer relationships.
+A comprehensive Laravel 10 application for managing livestock business operations, including animal tracking, processing services, freezer inventory, order management, and customer relationships.
 
 ## 📋 Project Overview
 
 Realman Livestock is a full-featured business management platform designed for small to medium-scale livestock businesses in Ghana. The system handles complete business operations from animal acquisition through processing, inventory management, order fulfillment, and delivery.
 
-## Project Preview
+### Landing Page
 
 ![Landing Page Screenshot](assets/project/landing-page.jpg)
+### Product Category
 ![Product Category Screenshot](assets/project/Product-category.jpg)
+### Order Management
 ![Order Management Screenshot](assets/project/Order-management.jpg)
 
 
